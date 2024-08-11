@@ -91,12 +91,13 @@ body {
     from {
         opacity: 0.85;
     }
+
     to {
         opacity: 1;
     }
 }
 
-main:after{
+main:after {
     content: "";
     min-height: 100vh;
     width: 100vw;
